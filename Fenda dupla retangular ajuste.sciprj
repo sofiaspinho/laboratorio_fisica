@@ -1,0 +1,45 @@
+SciDAVis 2.2.7 project file
+<scripting-lang>	muParser
+<windows>	0
+<log>
+[quarta-feira, 14 de agosto de 2024 16:20:56 Hora Padrão de Buenos Aires	Plot: ''Graph1'']
+Linear Regression fit of dataset: Table1_2, using function: A*x+B
+Y standard errors: Associated dataset (Table1_3)
+From x = 1 to x = 3
+B (y-intercept) = -0,0666666666666664 +/- 0,0763762615825973
+A (slope) = 0,55 +/- 0,0353553390593274
+--------------------------------------------------------------------------------------
+Chi^2 = 0,666666666666668
+R^2 = 0,997252747252747
+---------------------------------------------------------------------------------------
+[quarta-feira, 14 de agosto de 2024 16:26:20 Hora Padrão de Buenos Aires	Plot: ''Graph1'']
+Linear Regression fit of dataset: Table1_2, using function: A*x+B
+Y standard errors: Associated dataset (Table1_3)
+From x = 1 to x = 3
+B (y-intercept) = -0,0499999999999998 +/- 0,0763762615825973
+A (slope) = 0,55 +/- 0,0353553390593274
+--------------------------------------------------------------------------------------
+Chi^2 = 9,86076131526265e-30
+R^2 = 1
+---------------------------------------------------------------------------------------
+[quarta-feira, 14 de agosto de 2024 16:27:28 Hora Padrão de Buenos Aires	Plot: ''Graph1'']
+Linear Regression fit of dataset: Table1_2, using function: A*x+B
+Y standard errors: Associated dataset (Table1_3)
+From x = 1 to x = 3
+B (y-intercept) = -0,0433333333333332 +/- 0,0763762615825973
+A (slope) = 0,55 +/- 0,0353553390593274
+--------------------------------------------------------------------------------------
+Chi^2 = 0,106666666666667
+R^2 = 0,999559422843926
+---------------------------------------------------------------------------------------
+[quarta-feira, 14 de agosto de 2024 16:28:00 Hora Padrão de Buenos Aires	Plot: ''Graph1'']
+Linear Regression fit of dataset: Table1_2, using function: A*x+B
+Y standard errors: Associated dataset (Table1_3)
+From x = 1 to x = 3
+B (y-intercept) = -0,0499999999999998 +/- 0,0763762615825973
+A (slope) = 0,55 +/- 0,0353553390593274
+--------------------------------------------------------------------------------------
+Chi^2 = 9,86076131526265e-30
+R^2 = 1
+---------------------------------------------------------------------------------------
+</log>
